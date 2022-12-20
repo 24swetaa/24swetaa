@@ -2,10 +2,10 @@
 ### *<h4 align="center">Currently, I'm a 3rd year CSE Undergraduate</h4>*
 
 
-#### *<h4>Connect with Me: 💻</h4>* 
+#### *<h4>Connect with Me: </h4>* 
 <a href="https://www.linkedin.com/in/sweta-singh-932b34206/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
-#### *<h4>About Me: 💻</h4>* 
+#### *<h4>About Me: </h4>* 
 * Pursuing B.Tech in Computer Science and Engineering from IIT (BHU) Varanasi.
 * An enthusiastic student with a strong affinity for the field of technology, data structures and algorithms, full stack development and machine learning.
 * I have recently done projects in ReactJs, Django, Streamlit, SpringBoot, OpenGL and Android Studio.
