@@ -1,5 +1,5 @@
 ## <h2 align="center">Hi 👋, I'm Sweta</h2>
-### *<h4 align="center">Currently, I'm a 3rd year CSE Undergraduate</h4>*
+### *<h4 align="center">Currently, I'm a 4th year CSE Undergraduate</h4>*
 
 
 #### *<h4>Connect with Me: </h4>* 
